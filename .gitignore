@@ -1,0 +1,7 @@
+/venv/
+
+/__pycache__/
+/src/data_management/__pycache__/
+/src/data_management/lyrics-data.csv
+/src/data_management/artists-data.csv
+/src/weight_models/__pycache__/
